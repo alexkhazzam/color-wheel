@@ -1,0 +1,27 @@
+h1{
+    user-select: none;
+    color: rgb(71, 71, 71);
+    text-align: center;
+    margin-top: 200px;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2px;
+}
+
+h3{
+    user-select: none;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2px;
+}
+
+h4{
+    user-select: none;
+    text-align: center;
+    color: rgb(116, 17, 17);
+    margin-top: 250px;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2px;
+}
+
+
